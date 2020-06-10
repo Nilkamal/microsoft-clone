@@ -331,7 +331,7 @@ span:hover {
   }
 
   .carbon .content {
-    width: 85%;
+    width: 90%;
   }
 
   .links-inner {
@@ -345,6 +345,9 @@ span:hover {
     grid-template-columns: 1fr;
   }
 
+  .carbon {
+    margin-bottom: 90px;
+  }
   .edge .content {
     width: 90%;
     text-align: left;
@@ -353,6 +356,7 @@ span:hover {
   .edge .content .btn {
     margin-top: 90px;
   }
+
   .edge .content p {
     display: none;
   }
