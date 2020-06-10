@@ -347,6 +347,7 @@ span:hover {
 
   .edge .content {
     width: 90%;
+    text-align: left;
   }
 
   .edge .content .btn {
