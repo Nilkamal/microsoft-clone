@@ -348,8 +348,9 @@ span:hover {
   .edge .content {
     width: 90%;
   }
+
   .edge .content .btn {
-    margin-top: 50px;
+    margin-top: 90px;
   }
   .edge .content p {
     display: none;
