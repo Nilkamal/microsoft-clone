@@ -345,6 +345,9 @@ span:hover {
     grid-template-columns: 1fr;
   }
 
+  .edge .content {
+    width: 90%;
+  }
   .edge .content .btn {
     margin-top: 50px;
   }
