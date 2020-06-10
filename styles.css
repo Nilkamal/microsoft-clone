@@ -346,15 +346,15 @@ span:hover {
   }
 
   .carbon {
-    margin-bottom: 90px;
+    height: 400px;
   }
   .edge .content {
-    width: 90%;
+    width: 85%;
     text-align: left;
   }
 
   .edge .content .btn {
-    margin-top: 90px;
+    margin-top: 110px;
   }
 
   .edge .content p {
